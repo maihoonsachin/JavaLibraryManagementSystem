@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <id>B001</id>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <category>Programming</category>
+        <isbn>9780134685991</isbn>
+        <publishedYear>2018</publishedYear>
+        <totalCopies>5</totalCopies>
+        <availableCopies>5</availableCopies>
+    </book>
+    <book>
+        <id>B002</id>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <category>Programming</category>
+        <isbn>9780132350884</isbn>
+        <publishedYear>2008</publishedYear>
+        <totalCopies>4</totalCopies>
+        <availableCopies>4</availableCopies>
+    </book>
+</books>
+
+
